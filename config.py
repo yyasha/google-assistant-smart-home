@@ -3,9 +3,9 @@ import logging
 CLIENT_ID = "YOUR_SMART_HOME_NAME"
 CLIENT_SECRET = "YOUR_SECRET"
 API_KEY = "YOUR_API_KEY"
-USERS_DIRECTORY = "/root/google_home/users"
-TOKENS_DIRECTORY = "/root/google_home/tokens"
-DEVICES_DIRECTORY = "/root/google_home/devices"
+USERS_DIRECTORY = "/root/google-home/users"
+TOKENS_DIRECTORY = "/root/google-home/tokens"
+DEVICES_DIRECTORY = "/root/google-home/devices"
 
 # Uncomment to enable logging
 LOG_FILE = "/root/google-home/google-home.log"
